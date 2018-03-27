@@ -28,6 +28,5 @@ G:\DOTNET\SampleWebServer\SampleWebServer\bin\Microsoft.AI.Web.xml
 G:\DOTNET\SampleWebServer\SampleWebServer\bin\Microsoft.AI.WindowsServer.xml
 G:\DOTNET\SampleWebServer\SampleWebServer\bin\Microsoft.ApplicationInsights.xml
 G:\DOTNET\SampleWebServer\SampleWebServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\DOTNET\SampleWebServer\SampleWebServer\obj\Debug\SampleWebServer.csprojResolveAssemblyReference.cache
 G:\DOTNET\SampleWebServer\SampleWebServer\obj\Debug\SampleWebServer.dll
 G:\DOTNET\SampleWebServer\SampleWebServer\obj\Debug\SampleWebServer.pdb
